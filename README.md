@@ -2,6 +2,8 @@
 
 Este projeto tem como objetivo aplicar conceitos de Programação Orientada a Objetos (POO) em C#, simulando o comportamento de diferentes modelos de smartphones. A estrutura foi desenvolvida com base em herança, abstração e polimorfismo.
 
+[![Imagem de capa](https://github.com/robsonosbor/net-desafio-poo/blob/main/screenshot.png)](/)
+
 ## 🧠 Conceitos Aplicados
 
 - **Abstração**: A classe `Smartphone` define uma estrutura comum para todos os smartphones.
